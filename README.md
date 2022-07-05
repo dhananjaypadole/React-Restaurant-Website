@@ -2,7 +2,7 @@
 
 ## Ponts to remember 
 
-# 1) event syntaxc 
+### 1) event syntaxc 
       nClick = { () => functionName() }   --dont forget that we dont have to use {} again
 
 # 2) {} in prop (dataBinding)
