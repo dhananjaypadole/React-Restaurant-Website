@@ -1,5 +1,12 @@
 # React-Restaurant-website
-
+## What you will learn
+   1) Basic Syntax (VS Code Shortcut)
+            -- rafce -> create functional component
+            -- clg -> to create console.log
+            -- imr --> import React
+   2) Component Communication ( how to pass data from 1 comp to another )
+   3) filter,map, sorting in react
+   4) 
 ## Ponts to remember 
 
 #### 1) event syntaxc 
