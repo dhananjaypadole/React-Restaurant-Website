@@ -5,11 +5,15 @@
             -- clg -> to create console.log
             -- imr --> import React
    2) Component Communication ( how to pass data from 1 comp to another )
+            -- use useState-->for passing data from one componet to another we have to use useState
    3) Event Handling (arrow function in onClick={()=>functionName("")})
    4) filter,map, sorting in react
+   5) 
     
 ## Ponts to remember 
 
+### 0) Always start Component name with Capital
+        dont use component name camel casing otherwise DOM will get confused between component and atribute 
 #### 1) event syntaxc 
       nClick = { () => functionName() }   --dont forget that we dont have to use {} again
 
