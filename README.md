@@ -17,7 +17,7 @@
 
 #### 3) Dont forget to use {} if you want to write js code in html
 
-# 4) for Unique data  (Restaurent.js)
+#### 4) for Unique data  (Restaurent.js)
         we used "new Set()" to get the unique data of cousine (luke dinner, lunch etc)
         we directly kept new Set inside [] to get in array form 
         then spread to convert object into array and not only array tar only data array
