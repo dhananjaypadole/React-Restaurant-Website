@@ -5,8 +5,9 @@
             -- clg -> to create console.log
             -- imr --> import React
    2) Component Communication ( how to pass data from 1 comp to another )
-   3) filter,map, sorting in react
-   4) 
+   3) Event Handling (arrow function in onClick={()=>functionName("")})
+   4) filter,map, sorting in react
+    
 ## Ponts to remember 
 
 #### 1) event syntaxc 
