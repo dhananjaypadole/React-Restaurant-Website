@@ -2,6 +2,7 @@
 ## What you will learn
    1) Basic Syntax (VS Code Shortcut)  
             -- rafce -> create functional component  
+            -- rcc -> create class component  
             -- clg -> to create console.log  
             -- imr --> import React  
    2) Component Communication ( how to pass data from 1 comp to another )  
